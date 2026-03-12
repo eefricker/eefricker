@@ -5,7 +5,7 @@ Featured Project: The AlphaZero Architecture Series
 
 I recently completed a three-part portfolio reconstructing the AlphaZero reinforcement learning algorithm from the ground up. This series demonstrates a full-stack progression from mathematical fundamentals to distributed, production-scale systems engineering.
 
-**AlphaZero Project***
+**AlphaZero Project**
 
     -Built a complete neural network and Monte Carlo Tree Search (MCTS) entirely from scratch using pure Python and NumPy.
         
