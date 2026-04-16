@@ -1,9 +1,8 @@
 **Ethan Fricker**
 
-I am a Mathematics PhD based in Chicago, specializing in reinforcement learning, high-performance computing, and algorithmic design. My work focuses on bridging the gap between rigorous mathematical theory and bare-metal computational efficiency.
-Featured Project: The AlphaZero Architecture Series
+I am a Mathematics PhD based in Chicago. I am currently looking for Quantatative Researcher roles, and I am keeping a portfolio of projects towards that goal here.
 
-I recently completed a three-part portfolio reconstructing the AlphaZero reinforcement learning algorithm from the ground up. This series demonstrates a full-stack progression from mathematical fundamentals to distributed, production-scale systems engineering.
+Not super related to finance, but as a personal project/an intial commit, I have a three-part project reconstructing the AlphaZero reinforcement learning algorithm from the ground up. It demonstrates a full-stack progression from mathematical fundamentals to distributed, production-scale systems engineering.
 
 **AlphaZero Project**
 
