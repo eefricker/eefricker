@@ -2,7 +2,7 @@
 
 I am a Mathematics PhD based in Chicago. I am currently looking for Quantatative Researcher roles, and I am keeping a portfolio of projects towards that goal here.
 
-Not super related to finance, but as a personal project/an intial commit, I have a three-part project reconstructing the AlphaZero reinforcement learning algorithm from the ground up. It demonstrates a full-stack progression from mathematical fundamentals to distributed, production-scale systems engineering.
+For an initial commit, I have a reinforcement learning project for Chess. It is broken into three pieces, recreating an AlphaZero reinforcement learning algorithm from the ground up. The three parts demonstrate various levels of the trade off between bespoke code and the utilization of existing packages.
 
 **AlphaZero Project**
 
