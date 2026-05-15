@@ -2,7 +2,7 @@
 
 I am a Mathematics PhD currently based in Chicago (open to relocation). I am currently looking for Quantatative Researcher roles, and I am keeping a portfolio of projects towards that goal here.
 
-**Reinforcement-Learning-Levels (Non Quant Related)**
+**Reinforcement-Learning-Levels (Personal Project)**
 
     -Explored the foundations of reinforcement learning following an AlphaZero framework (ResNet with Monte Carlo Tree Search) for a simple Go board and Chess
 
