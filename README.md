@@ -2,9 +2,21 @@
 
 I am a Mathematics PhD currently based in Chicago (open to relocation). I am currently looking for Quantatative Researcher roles, and I am keeping a portfolio of projects towards that goal here.
 
+**Geometric Brownian Motion**
+
+    -Simple exploration using Geometric Brownian Motion as a model for daily equity (large cap) closing prices
+    
+    -Monte-Carlo path generation assuming normally distrubted log returns, and computation of percentile bands
+    
+    -Comparison of actual log returns and fitting them against normal vs student-t distributions (QQ plots and Anderson-Darling Test)
+    
+    -Llung-Box Test for volatility clustering. Then a calculation of volatility according to a t-GARCH model
+    
+    -Lastly, Monte-Carlo path generation using the t-GARCH model (what not to do)
+
 **Reinforcement-Learning-Levels (Personal Project)**
 
-    -Explored the foundations of reinforcement learning following an AlphaZero framework (ResNet with Monte Carlo Tree Search) for a simple Go board and Chess
+    -Exercise in the foundations of reinforcement learning following an AlphaZero framework (ResNet with Monte Carlo Tree Search) for a simple Go board and Chess
 
     -Also an exercise in utilizing AI (Gemini Pro subscription at the time) for code assitance (I'm comfortable in Python, but with AI I was able to write some custom C++ and CUDA kernels)
         
