@@ -24,16 +24,12 @@ I am a Mathematics PhD currently based in Chicago (open to relocation). I am cur
     
     -Lastly, Monte-Carlo path generation using the t-GARCH model (what not to do)
 
-**Reinforcement-Learning-Levels (Personal Project)**
+**Go-Reinforcement-Learning**
 
-    -Exercise in the foundations of reinforcement learning following an AlphaZero framework (ResNet with Monte Carlo Tree Search) for a simple Go board and Chess
-
-    -Also an exercise in utilizing AI (Gemini Pro subscription at the time) for code assitance (I'm comfortable in Python, but with AI I was able to write some custom C++ and CUDA kernels)
+    -Exercise in the foundations of reinforcement learning following an AlphaZero framework for a simple 3x3 Go Board
         
-    -Implemented manual forward and backward passes for Dense, Conv2D, and Batch Normalization layers to demonstrate a ground-truth understanding of gradient calculus and backpropagation.
-   
-    -Scaled the architecture using PyTorch and set up computations to be run on a cloud GPU service (Runpod)
+    -Pytorch implementation of a ResNet deep-learning architechture, and an implementation of Monte-Carlo Tree Search.
 
-    -End result can fit to existing grandmaster games and then learn from self-play, but speed of self-play is orders of magnitude too low. Ultimately, it cannot beat myself, a sub 1000 elo player. 
+    -After about 500 games of self play (~5 min on my laptop's cpu), the models learns the wining strategy 
 
 LinkedIn is probably the best place to contact me; don't hesitate to reach out. 
